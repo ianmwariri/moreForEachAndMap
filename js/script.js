@@ -23,9 +23,12 @@ return digits +1;
 alert(plusOne);
 
 */
-
+/*
 var maneno = ['Greatness', 'Bold', 'Charisma'];
 var capsManenos = maneno.map(function (maneno) {
   return maneno.toUpperCase();
 });
-alert(capsManenos);
+alert(capsManenos);*/
+
+var foods = prompt("Enter food items: ").split(",");
+
